@@ -1,10 +1,6 @@
 - 👋 Hi, I’m @SalahSoussou
 - 👀 I’m interested in front end programming
-- 🌱 I’m currently learning JavaScript
-- 💞️ I’m looking to collaborate on ...
-- 📫 kaka79702@gmail.com 
+- 🏄 I’ good at javaScript,react,html,css,sass
+- 📫 soussousalahiddine@gmail.com
 
-<!---
-SalahSoussou/SalahSoussou is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SalahSoussou)](https://github.com/anuraghazra/github-readme-stats)
