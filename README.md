@@ -1,5 +1,5 @@
 ### Hi there 👋, Salah Iddine Soussou
-#### I am Front End Developer 👨🏾‍💻
+#### I'm A Front End Developer 👨🏾‍💻
 ![I am Web Developer](https://github.com/SalahSoussou/public-images/blob/main/baner_img.png?raw=true)
 
 
