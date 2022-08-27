@@ -1,9 +1,9 @@
 ### Hi there 👋, Salah Iddine Soussou
-#### I'm A Front End Developer 👨🏾‍💻
+#### I'm A Front End Developer 👨🏾‍💻 
 ![I am Web Developer](https://github.com/SalahSoussou/public-images/blob/main/baner_img.png?raw=true)
 
 
-Skills:  REACT / JS / HTML / CSS / Sass / 
+Skills:  REACT / JS / Typescript / HTML / CSS / Sass / 
 
 - 📫 How to reach me: soussousalahiddine@gmail.com 
 - my web site: https://salahsoussou.tk/
