@@ -3,7 +3,7 @@
 ![I am Web Developer](https://github.com/SalahSoussou/public-images/blob/main/baner_img.png?raw=true)
 
 
-Skills:  REACT & REACT NATIVE/ JS / Typescript / HTML / CSS / Sass / MySQL / Python / UX-UI / Django !!! 🙌🏼
+Skills:  REACT & REACT NATIVE/ JS / Typescript / HTML / CSS / Sass / MySQL / Python / UX-UI / Django / API's!!! 🙌🏼
 
 - 📫 How to reach me: soussousalahiddine@gmail.com 
 - my web site: https://salahsoussou.tk/
