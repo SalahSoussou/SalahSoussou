@@ -1,9 +1,9 @@
 ### Hi there 👋, Salah Iddine Soussou
-#### I'm A Front End Developer 👨🏾‍💻 
+#### I'm A Full Stack Web Developer 👨🏾‍💻 
 ![I am Web Developer](https://github.com/SalahSoussou/public-images/blob/main/baner_img.png?raw=true)
 
 
-Skills:  REACT & REACT NATIVE/ JS / Typescript / HTML / CSS / Sass / MySQL / Python / UX-UI / Django / API's!!! 🙌🏼
+Skills:  REACT & REACT NATIVE/ JS / Typescript / HTML / CSS / Sass / MySQL / SQL / Python / UX-UI / Django / API's!!! 🙌🏼
 
 - 📫 How to reach me: soussousalahiddine@gmail.com 
 - my web site: https://salahsoussou.tk/
